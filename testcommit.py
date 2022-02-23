@@ -1,1 +1,2 @@
 print('tst')
+name = 'bob'
