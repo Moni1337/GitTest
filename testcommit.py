@@ -1,3 +1,5 @@
 print('tst')
 name = 'bob'
-i = 5
+i = 100
+print(2)
+b = 100
